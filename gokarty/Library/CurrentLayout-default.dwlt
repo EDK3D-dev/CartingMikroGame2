@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 981, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 156
+  controlID: 87
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -871,20 +871,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Mod Assets/3DProps/FoodProps
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Mod Assets/3DProps/FoodProps
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Konrad Seweryn 1a TI\git unity\gokarty
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 464e0000
-    m_LastClickedID: 20038
-    m_ExpandedIDs: 00000000464e000000ca9a3b
+    m_SelectedIDs: 8a520000
+    m_LastClickedID: 21130
+    m_ExpandedIDs: 00000000464e0000644e00006652000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -939,7 +939,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1034,10 +1034,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: bcfaffff
+      scrollPos: {x: 0, y: 379}
+      m_SelectedIDs: b03d0000
+      m_LastClickedID: 15792
+      m_ExpandedIDs: 7ef0ffffbafaffffbcfaffff963d0000c03e0000a2400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1097,9 +1097,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 22.79514, y: -1.8909073, z: 36.85885}
+    m_Target: {x: 15.418908, y: -2.234057, z: -1.9547379}
     speed: 2
-    m_Value: {x: 22.79514, y: -1.8909073, z: 36.85885}
+    m_Value: {x: 15.418908, y: -2.234057, z: -1.9547379}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1145,13 +1145,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.29537582, y: 0.4676199, z: -0.1693189, w: 0.8157676}
+    m_Target: {x: 0.0016844259, y: -0.9905352, z: 0.13696225, w: 0.01218164}
     speed: 2
-    m_Value: {x: 0.29414293, y: 0.46785915, z: -0.1686121, w: 0.81618494}
+    m_Value: {x: 0.001478929, y: -0.9905178, z: 0.13695984, w: 0.01069545}
   m_Size:
-    m_Target: 12.043832
+    m_Target: 12.783875
     speed: 2
-    m_Value: 12.043832
+    m_Value: 13.386257
   m_Ortho:
     m_Target: 0
     speed: 2
